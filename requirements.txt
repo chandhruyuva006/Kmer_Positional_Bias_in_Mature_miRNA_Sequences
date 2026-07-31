@@ -1,0 +1,5 @@
+# Versions recorded in the completed analysis provenance
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
