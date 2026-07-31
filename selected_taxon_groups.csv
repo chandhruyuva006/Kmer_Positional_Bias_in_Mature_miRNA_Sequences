@@ -1,0 +1,186 @@
+group_order,group_code,analysis_group,organism_prefix,mirbase_organism_name,mirbase_lineage,ncbi_taxid,raw_mature_records,unique_sequences_within_organism,source_subgroup
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),abu,Astatotilapia burtoni,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,8153,236,236,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),ccr,Cyprinus carpio,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,7962,146,146,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),dre,Danio rerio,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,7955,374,364,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),eel,Electrophorus electricus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,8005,34,34,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),fru,Fugu rubripes,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,31033,108,107,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),gmo,Gadus morhua,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,8049,516,511,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),hhi,Hippoglossus hippoglossus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,8267,36,35,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),ipu,Ictalurus punctatus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,7998,205,204,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),mze,Metriaclima zebra,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,106582,184,184,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),nbr,Neolamprologus brichardi,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,32507,182,182,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),oni,Oreochromis niloticus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,8128,695,685,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),ola,Oryzias latipes,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,8090,146,143,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),pol,Paralichthys olivaceus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,8255,38,37,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),pma,Petromyzon marinus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Agnathostomata,7757,302,301,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),pny,Pundamilia nyererei,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,303518,182,179,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),ssa,Salmo salar,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,8030,497,478,Fishes - non-tetrapod vertebrates
+1,01_fishes_non_tetrapod,Fishes (non-tetrapod vertebrates),tni,Tetraodon nigroviridis,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Teleostei,99883,109,109,Fishes - non-tetrapod vertebrates
+2,02_amphibians,Amphibians,xla,Xenopus laevis,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Amphibia,8355,247,246,Amphibians
+2,02_amphibians,Amphibians,xtr,Xenopus tropicalis,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Amphibia,8364,182,181,Amphibians
+3,03_non_avian_reptiles,Non-avian reptiles,ami,Alligator mississippiensis,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Sauria,8496,373,369,Non-avian reptiles
+3,03_non_avian_reptiles,Non-avian reptiles,aca,Anolis carolinensis,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Sauria,28377,449,447,Non-avian reptiles
+3,03_non_avian_reptiles,Non-avian reptiles,cpi,Chrysemys picta,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Sauria,8479,405,402,Non-avian reptiles
+3,03_non_avian_reptiles,Non-avian reptiles,oha,Ophiophagus hannah,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Sauria,8665,343,335,Non-avian reptiles
+3,03_non_avian_reptiles,Non-avian reptiles,pbv,Python bivittatus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Sauria,176946,307,304,Non-avian reptiles
+4,04_aves,Aves,apl,Anas platyrhynchos,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Aves,8839,8,8,Aves
+4,04_aves,Aves,cli,Columba livia,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Aves,8932,420,419,Aves
+4,04_aves,Aves,gga,Gallus gallus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Aves,9031,1235,1232,Aves
+4,04_aves,Aves,tgu,Taeniopygia guttata,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Aves,59729,334,332,Aves
+5,05_human,Human,hsa,Homo sapiens,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Hominidae,9606,2656,2632,Human
+6,06_non_human_primates,Non-human primates,age,Ateles geoffroyi,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Atelidae,9509,54,54,Non-human primates
+6,06_non_human_primates,Non-human primates,cja,Callithrix jacchus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Cebidae,9483,470,468,Non-human primates
+6,06_non_human_primates,Non-human primates,dma,Daubentonia madagascariensis,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Daubentoniidae,31869,67,65,Non-human primates
+6,06_non_human_primates,Non-human primates,ggo,Gorilla gorilla,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Hominidae,9593,369,359,Non-human primates
+6,06_non_human_primates,Non-human primates,lla,Lagothrix lagotricha,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Atelidae,9519,45,45,Non-human primates
+6,06_non_human_primates,Non-human primates,lca,Lemur catta,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Lemuridae,9447,15,15,Non-human primates
+6,06_non_human_primates,Non-human primates,mml,Macaca mulatta,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Cercopithecidae,9544,912,908,Non-human primates
+6,06_non_human_primates,Non-human primates,mne,Macaca nemestrina,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Cercopithecidae,9545,70,70,Non-human primates
+6,06_non_human_primates,Non-human primates,mmr,Microcebus murinus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Cheirogaleidae,30608,109,106,Non-human primates
+6,06_non_human_primates,Non-human primates,nle,Nomascus leucogenys,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Hylobatidae,61853,135,134,Non-human primates
+6,06_non_human_primates,Non-human primates,oga,Otolemur garnettii,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Galagidae,30611,127,123,Non-human primates
+6,06_non_human_primates,Non-human primates,ppa,Pan paniscus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Hominidae,9597,157,157,Non-human primates
+6,06_non_human_primates,Non-human primates,ptr,Pan troglodytes,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Hominidae,9598,587,582,Non-human primates
+6,06_non_human_primates,Non-human primates,pha,Papio hamadryas,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Cercopithecidae,9557,86,85,Non-human primates
+6,06_non_human_primates,Non-human primates,ppy,Pongo pygmaeus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Hominidae,9600,645,640,Non-human primates
+6,06_non_human_primates,Non-human primates,pbi,Pygathrix bieti,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Cercopithecidae,61621,9,9,Non-human primates
+6,06_non_human_primates,Non-human primates,sla,Saguinus labiatus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Cebidae,78454,40,40,Non-human primates
+6,06_non_human_primates,Non-human primates,sbo,Saimiri boliviensis,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Cebidae,27679,36,36,Non-human primates
+6,06_non_human_primates,Non-human primates,ssy,Symphalangus syndactylus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Primates > Hominidae,9590,10,10,Non-human primates
+7,07_other_mammals,Other mammals,aja,Artibeus jamaicensis,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Laurasiatheria,9417,19,19,Other mammals
+7,07_other_mammals,Other mammals,bta,Bos taurus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Ruminantia,9913,1030,1028,Other mammals
+7,07_other_mammals,Other mammals,cfa,Canis familiaris,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Carnivora,9615,453,453,Other mammals
+7,07_other_mammals,Other mammals,chi,Capra hircus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Ruminantia,9925,436,430,Other mammals
+7,07_other_mammals,Other mammals,cpo,Cavia porcellus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Rodentia,10141,656,656,Other mammals
+7,07_other_mammals,Other mammals,cgr,Cricetulus griseus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Rodentia,10029,351,351,Other mammals
+7,07_other_mammals,Other mammals,dno,Dasypus novemcinctus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Cingulata,9361,602,600,Other mammals
+7,07_other_mammals,Other mammals,efu,Eptesicus fuscus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Laurasiatheria,29078,426,424,Other mammals
+7,07_other_mammals,Other mammals,eca,Equus caballus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Laurasiatheria,9796,690,686,Other mammals
+7,07_other_mammals,Other mammals,meu,Macropus eugenii,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Metatheria,9315,3,3,Other mammals
+7,07_other_mammals,Other mammals,mdo,Monodelphis domestica,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Metatheria,13616,1138,1132,Other mammals
+7,07_other_mammals,Other mammals,mmu,Mus musculus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Rodentia,10090,1978,1963,Other mammals
+7,07_other_mammals,Other mammals,oan,Ornithorhynchus anatinus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Prototheria,9258,640,633,Other mammals
+7,07_other_mammals,Other mammals,ocu,Oryctolagus cuniculus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Lagomorpha,9986,579,577,Other mammals
+7,07_other_mammals,Other mammals,oar,Ovis aries,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Ruminantia,9940,153,152,Other mammals
+7,07_other_mammals,Other mammals,pal,Pteropus alecto,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Laurasiatheria,9402,651,646,Other mammals
+7,07_other_mammals,Other mammals,rno,Rattus norvegicus,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Rodentia,10116,764,762,Other mammals
+7,07_other_mammals,Other mammals,sha,Sarcophilus harrisii,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Metatheria,9305,62,62,Other mammals
+7,07_other_mammals,Other mammals,ssc,Sus scrofa,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Suina,9823,457,453,Other mammals
+7,07_other_mammals,Other mammals,tch,Tupaia chinensis,Metazoa > Bilateria > Deuterostoma > Chordata > Vertebrata > Mammalia > Scandentia,246437,162,160,Other mammals
+8,08_insects,Insects,api,Acyrthosiphon pisum,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7029,103,103,Insects - Hexapoda
+8,08_insects,Insects,aae,Aedes aegypti,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7159,164,164,Insects - Hexapoda
+8,08_insects,Insects,aga,Anopheles gambiae,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7165,163,163,Insects - Hexapoda
+8,08_insects,Insects,ame,Apis mellifera,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7460,262,262,Insects - Hexapoda
+8,08_insects,Insects,bdo,Bactrocera dorsalis,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,27457,78,77,Insects - Hexapoda
+8,08_insects,Insects,bib,Biston betularia,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,82595,2,2,Insects - Hexapoda
+8,08_insects,Insects,bmo,Bombyx mori,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7091,563,560,Insects - Hexapoda
+8,08_insects,Insects,cqu,Culex quinquefasciatus,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7176,93,93,Insects - Hexapoda
+8,08_insects,Insects,dqu,Dinoponera quadriceps,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,609295,197,197,Insects - Hexapoda
+8,08_insects,Insects,dan,Drosophila ananassae,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7217,75,75,Insects - Hexapoda
+8,08_insects,Insects,der,Drosophila erecta,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7220,120,119,Insects - Hexapoda
+8,08_insects,Insects,dgr,Drosophila grimshawi,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7222,72,72,Insects - Hexapoda
+8,08_insects,Insects,dme,Drosophila melanogaster,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7227,469,468,Insects - Hexapoda
+8,08_insects,Insects,dmo,Drosophila mojavensis,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7230,71,71,Insects - Hexapoda
+8,08_insects,Insects,dpe,Drosophila persimilis,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7234,69,69,Insects - Hexapoda
+8,08_insects,Insects,dps,Drosophila pseudoobscura,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7237,272,268,Insects - Hexapoda
+8,08_insects,Insects,dse,Drosophila sechellia,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7238,120,120,Insects - Hexapoda
+8,08_insects,Insects,dsi,Drosophila simulans,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7240,213,213,Insects - Hexapoda
+8,08_insects,Insects,dvi,Drosophila virilis,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7244,328,327,Insects - Hexapoda
+8,08_insects,Insects,dwi,Drosophila willistoni,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7260,72,72,Insects - Hexapoda
+8,08_insects,Insects,dya,Drosophila yakuba,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7245,103,103,Insects - Hexapoda
+8,08_insects,Insects,hme,Heliconius melpomene,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,34740,97,96,Insects - Hexapoda
+8,08_insects,Insects,lmi,Locusta migratoria,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7004,14,14,Insects - Hexapoda
+8,08_insects,Insects,mse,Manduca sexta,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7130,93,93,Insects - Hexapoda
+8,08_insects,Insects,ngi,Nasonia giraulti,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7426,32,32,Insects - Hexapoda
+8,08_insects,Insects,nlo,Nasonia longicornis,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7427,28,28,Insects - Hexapoda
+8,08_insects,Insects,nvi,Nasonia vitripennis,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7425,53,53,Insects - Hexapoda
+8,08_insects,Insects,pxy,Plutella xylostella,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,51655,127,126,Insects - Hexapoda
+8,08_insects,Insects,pca,Polistes canadensis,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,91411,140,140,Insects - Hexapoda
+8,08_insects,Insects,sfr,Spodoptera frugiperda,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7108,221,219,Insects - Hexapoda
+8,08_insects,Insects,tca,Tribolium castaneum,Metazoa > Bilateria > Ecdysozoa > Arthropoda > Hexapoda,7070,590,584,Insects - Hexapoda
+9,09_nematodes,Nematodes,asu,Ascaris suum,Metazoa > Bilateria > Ecdysozoa > Nematoda,6253,189,188,Nematodes
+9,09_nematodes,Nematodes,bma,Brugia malayi,Metazoa > Bilateria > Ecdysozoa > Nematoda,6279,166,165,Nematodes
+9,09_nematodes,Nematodes,cbn,Caenorhabditis brenneri,Metazoa > Bilateria > Ecdysozoa > Nematoda,135651,152,152,Nematodes
+9,09_nematodes,Nematodes,cbr,Caenorhabditis briggsae,Metazoa > Bilateria > Ecdysozoa > Nematoda,6238,163,160,Nematodes
+9,09_nematodes,Nematodes,cel,Caenorhabditis elegans,Metazoa > Bilateria > Ecdysozoa > Nematoda,6239,437,435,Nematodes
+9,09_nematodes,Nematodes,crm,Caenorhabditis remanei,Metazoa > Bilateria > Ecdysozoa > Nematoda,31234,182,179,Nematodes
+9,09_nematodes,Nematodes,hco,Haemonchus contortus,Metazoa > Bilateria > Ecdysozoa > Nematoda,6289,194,192,Nematodes
+9,09_nematodes,Nematodes,hpo,Heligmosomoides polygyrus,Metazoa > Bilateria > Ecdysozoa > Nematoda,6339,486,486,Nematodes
+9,09_nematodes,Nematodes,prd,Panagrellus redivivus,Metazoa > Bilateria > Ecdysozoa > Nematoda,6233,394,377,Nematodes
+9,09_nematodes,Nematodes,ppc,Pristionchus pacificus,Metazoa > Bilateria > Ecdysozoa > Nematoda,54126,550,548,Nematodes
+9,09_nematodes,Nematodes,str,Strongyloides ratti,Metazoa > Bilateria > Ecdysozoa > Nematoda,34506,208,206,Nematodes
+10,10_angiosperms,Angiosperms,aau,Acacia auriculiformis,Viridiplantae > Magnoliophyta > eudicotyledons > Fabaceae,205027,7,7,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,amg,Acacia mangium,Viridiplantae > Magnoliophyta > eudicotyledons > Fabaceae,224085,3,3,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ata,Aegilops tauschii,Viridiplantae > Magnoliophyta > monocotyledons,37682,173,137,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,atr,Amborella trichopoda,Viridiplantae > Magnoliophyta,13333,129,112,Angiosperms - basal
+10,10_angiosperms,Angiosperms,aqc,Aquilegia caerulea,Viridiplantae > Magnoliophyta > eudicotyledons > Ranunculaceae,218851,45,34,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,aly,Arabidopsis lyrata,Viridiplantae > Magnoliophyta > eudicotyledons > Brassicaceae,59689,384,313,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ath,Arabidopsis thaliana,Viridiplantae > Magnoliophyta > eudicotyledons > Brassicaceae,3702,428,350,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ahy,Arachis hypogaea,Viridiplantae > Magnoliophyta > eudicotyledons > Fabaceae,3818,32,32,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,aof,Asparagus officinalis,Viridiplantae > Magnoliophyta > monocotyledons,4686,101,101,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,ama,Avicennia marina,Viridiplantae > Magnoliophyta > eudicotyledons > Lamiales,82927,3,3,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,bdi,Brachypodium distachyon,Viridiplantae > Magnoliophyta > monocotyledons,15368,525,437,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,bna,Brassica napus,Viridiplantae > Magnoliophyta > eudicotyledons > Brassicaceae,3708,92,53,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,bol,Brassica oleracea,Viridiplantae > Magnoliophyta > eudicotyledons > Brassicaceae,3712,11,10,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,bra,Brassica rapa,Viridiplantae > Magnoliophyta > eudicotyledons > Brassicaceae,3711,157,127,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,bcy,Bruguiera cylindrica,Viridiplantae > Magnoliophyta > eudicotyledons > Rhizophoraceae,106616,4,4,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,bgy,Bruguiera gymnorhiza,Viridiplantae > Magnoliophyta > eudicotyledons > Rhizophoraceae,39984,4,4,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,cas,Camelina sativa,Viridiplantae > Magnoliophyta > eudicotyledons > Brassicaceae,90675,112,92,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,cpa,Carica papaya,Viridiplantae > Magnoliophyta > eudicotyledons > Caricaceae,3649,81,52,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ccl,Citrus clementina,Viridiplantae > Magnoliophyta > eudicotyledons > Rutaceae,85681,5,4,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,crt,Citrus reticulata,Viridiplantae > Magnoliophyta > eudicotyledons > Rutaceae,85571,4,4,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,csi,Citrus sinensis,Viridiplantae > Magnoliophyta > eudicotyledons > Rutaceae,2711,246,191,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ctr,Citrus trifoliata,Viridiplantae > Magnoliophyta > eudicotyledons > Rutaceae,37690,6,6,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,cme,Cucumis melo,Viridiplantae > Magnoliophyta > eudicotyledons > Cucurbitaceae,3656,120,75,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,cst,Cucumis sativus,Viridiplantae > Magnoliophyta > eudicotyledons > Cucurbitaceae,3659,5,5,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,cca,Cynara cardunculus,Viridiplantae > Magnoliophyta > eudicotyledons > Asteraceae,4265,57,54,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,dpr,Digitalis purpurea,Viridiplantae > Magnoliophyta > eudicotyledons > Lamiales,4164,13,11,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,egu,Elaeis guineensis,Viridiplantae > Magnoliophyta > monocotyledons,51953,6,2,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,eun,Eugenia uniflora,Viridiplantae > Magnoliophyta > eudicotyledons > Myrtaceae,119951,74,71,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,far,Festuca arundinacea,Viridiplantae > Magnoliophyta > monocotyledons,4606,15,14,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,fve,Fragaria vesca,Viridiplantae > Magnoliophyta > eudicotyledons > Rosaceae,57918,131,101,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,gma,Glycine max,Viridiplantae > Magnoliophyta > eudicotyledons > Fabaceae,3847,756,569,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,gso,Glycine soja,Viridiplantae > Magnoliophyta > eudicotyledons > Fabaceae,3848,13,10,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,gar,Gossypium arboreum,Viridiplantae > Magnoliophyta > eudicotyledons > Malvaceae,29729,1,1,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ghb,Gossypium herbaceum,Viridiplantae > Magnoliophyta > eudicotyledons > Malvaceae,34274,1,1,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ghr,Gossypium hirsutum,Viridiplantae > Magnoliophyta > eudicotyledons > Malvaceae,3635,80,63,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,gra,Gossypium raimondii,Viridiplantae > Magnoliophyta > eudicotyledons > Malvaceae,29730,296,246,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,han,Helianthus annuus,Viridiplantae > Magnoliophyta > eudicotyledons > Asteraceae,4232,7,6,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,har,Helianthus argophyllus,Viridiplantae > Magnoliophyta > eudicotyledons > Asteraceae,73275,3,3,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,hci,Helianthus ciliaris,Viridiplantae > Magnoliophyta > eudicotyledons > Asteraceae,73280,3,3,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,hex,Helianthus exilis,Viridiplantae > Magnoliophyta > eudicotyledons > Asteraceae,400408,2,1,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,hpa,Helianthus paradoxus,Viridiplantae > Magnoliophyta > eudicotyledons > Asteraceae,73304,3,3,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,hpe,Helianthus petiolaris,Viridiplantae > Magnoliophyta > eudicotyledons > Asteraceae,4234,3,3,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,htu,Helianthus tuberosus,Viridiplantae > Magnoliophyta > eudicotyledons > Asteraceae,4233,16,9,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,hbr,Hevea brasiliensis,Viridiplantae > Magnoliophyta > eudicotyledons > Euphorbiaceae,3981,30,30,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,hvu,Hordeum vulgare,Viridiplantae > Magnoliophyta > monocotyledons,4513,71,66,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,lus,Linum usitatissimum,Viridiplantae > Magnoliophyta > eudicotyledons > Linaceae,4006,124,57,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,lja,Lotus japonicus,Viridiplantae > Magnoliophyta > eudicotyledons > Fabaceae,34305,365,291,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,mdm,Malus domestica,Viridiplantae > Magnoliophyta > eudicotyledons > Rosaceae,3750,322,152,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,mes,Manihot esculenta,Viridiplantae > Magnoliophyta > eudicotyledons > Euphorbiaceae,3983,175,103,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,mtr,Medicago truncatula,Viridiplantae > Magnoliophyta > eudicotyledons > Fabaceae,3880,756,426,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,nta,Nicotiana tabacum,Viridiplantae > Magnoliophyta > eudicotyledons > Solanaceae,4097,164,91,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,osa,Oryza sativa,Viridiplantae > Magnoliophyta > monocotyledons,4530,738,577,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,pla,Paeonia lactiflora,Viridiplantae > Magnoliophyta > eudicotyledons > Paeoniaceae,35924,15,15,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,pgi,Panax ginseng,Viridiplantae > Magnoliophyta > eudicotyledons > Araliaceae,4054,32,25,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,pvu,Phaseolus vulgaris,Viridiplantae > Magnoliophyta > eudicotyledons > Fabaceae,3885,10,10,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,peu,Populus euphratica,Viridiplantae > Magnoliophyta > eudicotyledons > Salicaceae,75702,4,3,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ptc,Populus trichocarpa,Viridiplantae > Magnoliophyta > eudicotyledons > Salicaceae,3694,401,253,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ppe,Prunus persica,Viridiplantae > Magnoliophyta > eudicotyledons > Rosaceae,3760,214,155,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,rgl,Rehmannia glutinosa,Viridiplantae > Magnoliophyta > eudicotyledons > Lamiales,99300,37,37,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,rco,Ricinus communis,Viridiplantae > Magnoliophyta > eudicotyledons > Euphorbiaceae,3988,63,36,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,sof,Saccharum officinarum,Viridiplantae > Magnoliophyta > monocotyledons,4547,16,10,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,ssp,Saccharum sp.,Viridiplantae > Magnoliophyta > monocotyledons,15819,20,18,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,seu,Salicornia europaea,Viridiplantae > Magnoliophyta > eudicotyledons > Amaranthaceae,206448,31,30,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,smi,Salvia miltiorrhiza,Viridiplantae > Magnoliophyta > eudicotyledons > Lamiales,226208,1,1,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,ssl,Salvia sclarea,Viridiplantae > Magnoliophyta > eudicotyledons > Lamiales,38869,18,17,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,sly,Solanum lycopersicum,Viridiplantae > Magnoliophyta > eudicotyledons > Solanaceae,4081,147,137,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,stu,Solanum tuberosum,Viridiplantae > Magnoliophyta > eudicotyledons > Solanaceae,4113,343,244,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,sbi,Sorghum bicolor,Viridiplantae > Magnoliophyta > monocotyledons,4558,241,152,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,tcc,Theobroma cacao,Viridiplantae > Magnoliophyta > eudicotyledons > Malvaceae,3641,82,57,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,tae,Triticum aestivum,Viridiplantae > Magnoliophyta > monocotyledons,4565,125,121,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,ttu,Triticum turgidum,Viridiplantae > Magnoliophyta > monocotyledons,4571,1,1,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,vun,Vigna unguiculata,Viridiplantae > Magnoliophyta > eudicotyledons > Fabaceae,3917,18,17,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,vvi,Vitis vinifera,Viridiplantae > Magnoliophyta > eudicotyledons > Vitaceae,29760,186,119,Angiosperms - eudicots
+10,10_angiosperms,Angiosperms,vca,Vriesea carinata,Viridiplantae > Magnoliophyta > monocotyledons,294102,65,60,Angiosperms - monocots
+10,10_angiosperms,Angiosperms,zma,Zea mays,Viridiplantae > Magnoliophyta > monocotyledons,4577,325,207,Angiosperms - monocots
